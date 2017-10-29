@@ -14,11 +14,10 @@ Toutes les parties ont été testées et fonctionnent correctement, mais de faç
 
 *******************MISE EN COMMUN************************
 Les parties Node et React ont été mises en commun. Néeamoins toutes les fonctionnalitées ne sont pas fonctionnelles.
-Voici les fonctions qui marchent:
--
--
--
-...
+Voici les fonctions qui sont défectueuses:
+-le watcher ne reçoit pas les bonnes données (problème côté node)
+-Add content n'enregistre le nouveau content
+-Save pres ne fonctionne pas 
 
 Concernant la partie JEE, nous avons préféré commencer par mettre en commun Node et React. Malheureusement, nous n'avons pas relié JEE 
 par choix et manque de temps. Néanmoins, nous avons étudié comment relier cette partie aux autres. Nous souhaitions créer un autre projet
